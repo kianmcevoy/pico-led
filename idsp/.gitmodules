@@ -1,0 +1,3 @@
+[submodule "benchmarking/benchmarker"]
+	path = benchmarking/benchmarker
+	url = https://github.com/InstruoModular/benchmarker.git

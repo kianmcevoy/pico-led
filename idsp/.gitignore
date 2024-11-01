@@ -1,0 +1,8 @@
+.vscode/
+
+bin/
+dev/
+build/
+test/bin/
+benchmarking/bin
+
